@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//iGreen MOB//Live de lancamento//PT-BR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:igreen-mob-live-20261020@igreen-mob
+DTSTAMP:20261013T220000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Live de lancamento iGreen MOB - horario a confirmar
+DESCRIPTION:Reserve a data. Live no YouTube. Horario e link a confirmar pela organizacao.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
